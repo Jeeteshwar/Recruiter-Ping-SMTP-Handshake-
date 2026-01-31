@@ -26,7 +26,7 @@ A Python script for sending personalized bulk emails with attachments via Gmail'
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/bulk-email-sender.git
+git clone [https://github.com/yourusername/bulk-email-sender](https://github.com/Jeeteshwar/Recruiter-Ping-SMTP-Handshake-).git
 cd bulk-email-sender
 
 # Create virtual environment (optional but recommended)
