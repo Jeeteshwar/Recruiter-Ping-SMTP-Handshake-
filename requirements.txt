@@ -1,0 +1,35 @@
+# Core Requirements for Bulk Email Script
+python>=3.8
+
+# Optional but recommended for enhanced functionality:
+
+# For HTML templating and dynamic content
+Jinja2>=3.1.2
+
+# For CSV/Excel email list processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# For email validation
+email-validator>=2.0.0
+
+# For better logging
+loguru>=0.7.0
+
+# For advanced rate limiting and retry logic
+backoff>=2.2.0
+
+# For progress bars
+tqdm>=4.65.0
+
+# For configuration management (optional)
+python-dotenv>=1.0.0
+
+# For connecting to databases (if needed)
+# Uncomment based on your database:
+# mysql-connector-python>=8.1.0
+# psycopg2-binary>=2.9.6
+# sqlalchemy>=2.0.0
+
+# For testing
+pytest>=7.4.0

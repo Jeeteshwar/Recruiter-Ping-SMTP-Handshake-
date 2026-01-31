@@ -1,0 +1,19 @@
+<p>Hello Hiring Team,</p>
+
+<p>I am writing to express my interest in Backend Developer roles within your engineering team.</p>
+
+<p>I am a final-year B.Tech CSE student (2026 Batch, CGPA: 8.54) with a strong foundation in scalable system design. My primary stack includes <b>Java, Spring Boot, REST APIs, and AWS.</b></p>
+
+<p><b>A quick snapshot of my technical profile:</b></p>
+<ul>
+    <li><b>Problem Solving:</b> 900+ DSA problems solved across LeetCode and GeeksforGeeks.</li>
+    <li><b>Production Experience:</b> Former Backend Intern at <b>MotionCut</b>, where I built secure APIs and optimized DB performance.</li>
+    <li><b>Projects:</b> Built scalable E-commerce and Blog platforms focusing on clean architecture.</li>
+</ul>
+
+<p>I am eager to bring this "builder" mindset to your team. My resume is attached for your review.</p>
+
+<p>Best regards,<br>
+<b>Jeeteshwar Shrivastava</b><br>
++91 7050956353<br>
+<a href="https://leetcode.com/u/Jeeteshwar07/">LeetCode Profile</a></p>
